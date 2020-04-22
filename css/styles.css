@@ -1,0 +1,135 @@
+.div1{
+  background-color: #ff4c68;
+}
+h1{
+   font-family: 'Montserrat-Black', sans-serif;
+   font-size: 3.5rem;
+   line-height: 1.5;
+   color: white;
+}
+.container-fluid{
+  padding: 3% 15%;
+
+}
+body{
+  font-family: Montserrat;
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  padding-left: 0;
+
+}
+.push{
+  margin-top: 4.0rem;
+}
+.nav-item{
+  margin-left: 18px;
+  margin-right: 18px;
+}
+.tindog_adjust{
+  padding-left: 0;
+}
+.align
+{
+  text-align: center;
+}
+.row{
+  padding-top: 50px;
+}
+h3{
+  font-family: "Monserrat-Bold";
+  font-size: 2.2rem;
+}
+p{
+  color:grey;
+}
+.icon{
+  color: #ef8172;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+.dog_image{
+  width: 60%;
+  transform: rotate(25deg);
+
+}
+.button{
+  margin-right: 10px;
+}
+.nav-link{
+  font-size: 20px;
+}
+#features{
+  margin-top: 90px;
+  margin-bottom: 50px;
+  background-color: white;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #ff4c68;
+  color:white;
+}
+h2{
+  font-family: "Monserrat-Bold";
+  line-height: 1.5;
+  font-size: 3rem;
+  padding: 7%;
+  padding-bottom: 0;
+}
+.testimonials-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ff4c68;
+  padding-bottom: 4%;
+}
+.img-logo{
+  width: 15%;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+  padding-top: 0;
+}
+@media (max-width:1028px) {
+
+  .dog_image{
+    transform: rotate(0);
+  }
+
+  #title{
+    text-align: center;
+  }
+
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat-Black', sans-serif;
+  padding: 7% 30%;
+}
+.foot{
+  padding-bottom: 40px;
+  line-height: 1.5;
+}
+.pd{
+  padding:0;
+}
+#footer{
+  padding: 5% 20%;
+  text-align: center;
+}
+.ic{
+  padding: 20px;
+}
